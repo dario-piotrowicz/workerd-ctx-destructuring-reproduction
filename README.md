@@ -42,6 +42,5 @@ npm run dev-passThroughOnException-broken
 ```
 to locally see the valid and broken behaviors
 
-> [!NOTE] this are not local only issues but happen in
->         production as well, you can check that by
->         deploying the workers with the respective deploy scripts
+> [!NOTE]
+> this are not local only issues but happen in production as well, you can check that by deploying the workers with the respective deploy scripts
