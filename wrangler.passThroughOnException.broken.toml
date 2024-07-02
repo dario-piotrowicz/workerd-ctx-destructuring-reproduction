@@ -1,0 +1,4 @@
+#:schema node_modules/wrangler/config-schema.json
+name = "ctx-destructuring-repro-passthroughonexception-broken"
+main = "src/index.passThroughOnException.broken.js"
+compatibility_date = "2024-07-01"
